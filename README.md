@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @FatimahAdwan
-- 👀A machine learning Engineer, an AI/Data science enthusiast
+- 👀 A fullstack Data scientist
 - 🌱 self motivated/self driven and passionate about open source
 - 💞️ currently focused on learning, relearning and unlearning new thing
-FatimahAdwan/FatimahAdwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- I freelance and collaborate for the maintime. Need a side gig work done on anything Data, you can reach me at akilahafaf7@gmail.com
 --->
