@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FatimahAdwan
-- 👀 A fullstack Data scientist
+- 👀 A fullstack Data scientist/pythonista
 - 🌱 self motivated/self driven and passionate about open source
 - 💞️ currently focused on learning, relearning and unlearning new thing
 - I freelance and collaborate for the maintime. Need a side gig work done on anything Data, you can reach me at akilahafaf7@gmail.com
